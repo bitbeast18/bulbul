@@ -1,2 +1,2 @@
 # bulbul
-A fast and easy to use library for machine learning and deep learning. 
+An easy to use library for ML/DL integrations based on transfer learning.
